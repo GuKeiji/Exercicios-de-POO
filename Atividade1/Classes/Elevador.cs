@@ -47,12 +47,12 @@ namespace Atividade1.Classes
             if (andar < quantidadeAndares)
             {
                 andar++;
+                Console.WriteLine($"O elevador está no andar {andar}");
             }
             else
             {
                 Console.WriteLine($"O elevador já está no andar máximo");
             }
-            Console.WriteLine($"O elevador está no andar {andar}");
 
             return andar;
         }
@@ -61,12 +61,12 @@ namespace Atividade1.Classes
             if (andar > 0)
             {
                 andar--;
+                Console.WriteLine($"O elevador está no andar {andar}");
             }
             else
             {
                 Console.WriteLine($"O elevador está no térreo");
             }
-            Console.WriteLine($"O elevador está no andar {andar}");
 
             return andar;
         }

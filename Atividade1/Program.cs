@@ -49,24 +49,24 @@ namespace Atividade1
                         int selecionar2 = int.Parse(Console.ReadLine());
                         if (selecionar2 == 1)
                         {
-                            e.Subir(quantidadeAndares, andar);
+                            // e.Subir(quantidadeAndares, andar);
                             andar = e.Subir(quantidadeAndares, andar);
                             // Console.WriteLine($"NUMERO DO ANDAR = {andar}");
                         }
                         else if (selecionar2 == 2)
                         {
-                            e.Descer(quantidadeAndares, andar);
+                            // e.Descer(quantidadeAndares, andar);
                             andar = e.Descer(quantidadeAndares, andar);
                         }
                         else if (selecionar2 == 3)
                         {
-                            e.Entrar(capacidade, quantidade);
+                            // e.Entrar(capacidade, quantidade);
                             quantidade = e.Entrar(capacidade, quantidade);
                             Console.WriteLine($"O elevador possui {quantidade} pessoas");
                         }
                         else if (selecionar2 == 4)
                         {
-                            e.Sair(capacidade, quantidade);
+                            // e.Sair(capacidade, quantidade);
                             quantidade = e.Sair(capacidade, quantidade);
                             Console.WriteLine($"O elevador possui {quantidade} pessoas");
                         }
