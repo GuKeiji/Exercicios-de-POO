@@ -1,0 +1,16 @@
+E:\HD\SENAI\POOatividades\Atividade3\bin\Debug\net5.0\Atividade3.exe
+E:\HD\SENAI\POOatividades\Atividade3\bin\Debug\net5.0\Atividade3.deps.json
+E:\HD\SENAI\POOatividades\Atividade3\bin\Debug\net5.0\Atividade3.runtimeconfig.json
+E:\HD\SENAI\POOatividades\Atividade3\bin\Debug\net5.0\Atividade3.runtimeconfig.dev.json
+E:\HD\SENAI\POOatividades\Atividade3\bin\Debug\net5.0\Atividade3.dll
+E:\HD\SENAI\POOatividades\Atividade3\bin\Debug\net5.0\ref\Atividade3.dll
+E:\HD\SENAI\POOatividades\Atividade3\bin\Debug\net5.0\Atividade3.pdb
+E:\HD\SENAI\POOatividades\Atividade3\obj\Debug\net5.0\Atividade3.csprojAssemblyReference.cache
+E:\HD\SENAI\POOatividades\Atividade3\obj\Debug\net5.0\Atividade3.GeneratedMSBuildEditorConfig.editorconfig
+E:\HD\SENAI\POOatividades\Atividade3\obj\Debug\net5.0\Atividade3.AssemblyInfoInputs.cache
+E:\HD\SENAI\POOatividades\Atividade3\obj\Debug\net5.0\Atividade3.AssemblyInfo.cs
+E:\HD\SENAI\POOatividades\Atividade3\obj\Debug\net5.0\Atividade3.csproj.CoreCompileInputs.cache
+E:\HD\SENAI\POOatividades\Atividade3\obj\Debug\net5.0\Atividade3.dll
+E:\HD\SENAI\POOatividades\Atividade3\obj\Debug\net5.0\ref\Atividade3.dll
+E:\HD\SENAI\POOatividades\Atividade3\obj\Debug\net5.0\Atividade3.pdb
+E:\HD\SENAI\POOatividades\Atividade3\obj\Debug\net5.0\Atividade3.genruntimeconfig.cache
